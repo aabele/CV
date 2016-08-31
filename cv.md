@@ -8,9 +8,11 @@ I’ll be glad to discuss any details with you in a skype/hangouts call.
 
 ## Contacts
 
-__Address__ Latvia, Riga, Hospital Str. 40-12
-__Telephone__ +371 2641 4607
-__Email__ aabele@gmail.com
+__Address:__ Latvia, Riga, Hospital Str. 40-12
+
+__Telephone:__ +371 2641 4607
+
+__Email:__ aabele@gmail.com
 
 ## Skills
 Python – Javascript – Linux – Design patterns – OOP – ReST – TDD – Agile Methodologies
