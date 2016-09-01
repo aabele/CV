@@ -1,6 +1,6 @@
 # Aivis Abele 
 
-Python/Javascript remote developer (UTC+2)
+Remote Python/Javascript developer (UTC+2)
 
 ## Skills
 Python – Javascript – Linux – Design patterns – OOP – ReST – TDD – Agile Methodologies
