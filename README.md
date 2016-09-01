@@ -1,18 +1,6 @@
 # Aivis Abele 
 
-I'm a responsible python/javascript developer. I've been working fully remote since 2011 and currently i am looking for a remote software engineer position (contract or permanent). 
-
-I am confident in python, django, javascript - grunt.js, backbone.js, ReST, ansible, shell scripting, test driven development, git, linux environment - nginx, postgres, jenkins. 
-
-I’ll be glad to discuss any details with you in a skype/hangouts call.
-
-## Contacts
-
-__Address:__ Latvia, Riga, Hospital Str. 40-12
-
-__Telephone:__ +371 2641 4607
-
-__Email:__ aabele@gmail.com
+Python/Javascript remote developer (UTC+2)
 
 ## Skills
 Python – Javascript – Linux – Design patterns – OOP – ReST – TDD – Agile Methodologies
@@ -60,6 +48,14 @@ __2005-2006__  - Riga Technical University (Riga Business School) - unfinished..
 
 ### Economic informatics - Bachelor degree
 __2001-2005__ - University of Latvia
+
+## Contacts
+
+__Address:__ Latvia, Riga, Hospital Str. 40-12
+
+__Telephone:__ +371 2641 4607
+
+__Email:__ aabele@gmail.com
 
 ## Other skills and hobbies
 
