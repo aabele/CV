@@ -13,7 +13,7 @@ Latvian (mother tongue), english (written and spoken), russian (only spoken)
 ### Python/Javascript developer @ omni-digital.co.uk
 __2016 - ...__
 
-Working as a remote django developer, building websites, debugging old code, provisioning a lot of digital ocean droplets (centos and ubuntu) and keeping them updated and in order by using ansible.
+Working as a remote django developer, building websites, debugging old code, provisioning a lot of digital ocean droplets (centos and ubuntu) and keeping them updated and secured by using ansible.
 
 __Technology stack:__ linux, git, django, postgres, javascript, ansible.
 
