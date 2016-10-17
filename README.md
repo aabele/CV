@@ -1,6 +1,10 @@
 # Aivis Abele 
 
-Remote Python/Javascript developer (UTC+2)
+**Remote Python/Javascript developer (UTC+2)**
+
+* Github: [github.com/aabele/CV](https://github.com/aabele/CV)
+* Twitter: [twitter.com/aivis_abele](https://twitter.com/aivis_abele)
+* Email: [aabele@gmail.com](mailto:aabele@gmail.com)
 
 ## Skills
 Python – Javascript – Linux – Design patterns – OOP – ReST – TDD – Agile Methodologies
@@ -48,14 +52,6 @@ __2005-2006__  - Riga Technical University (Riga Business School) - unfinished..
 
 ### Economic informatics - Bachelor degree
 __2001-2005__ - University of Latvia
-
-## Contacts
-
-__Address:__ Latvia, Riga, Hospital Str. 40-12
-
-__Telephone:__ +371 2641 4607
-
-__Email:__ aabele@gmail.com
 
 ## Other skills and hobbies
 
