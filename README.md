@@ -7,7 +7,7 @@
 * Email: [aabele@gmail.com](mailto:aabele@gmail.com)
 
 ## Skills
-Python – Javascript – Linux – Design patterns – OOP – ReST – TDD – Agile Methodologies
+Python – Javascript – Linux – Design patterns – OOP – ReST – TDD – Agile Methodologies - Web scraping (Selenium, Scrapy)
 
 ## LANGUAGES
 Latvian (mother tongue), english (written and spoken), russian (only spoken)
