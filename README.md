@@ -1,5 +1,7 @@
 # Aivis Abele 
 
+![Aivis Abele](https://raw.githubusercontent.com/aabele/CV/master/aabele.jpg)
+
 **Remote Python/Javascript developer (UTC+2)**
 
 * Github: [github.com/aabele/CV](https://github.com/aabele/CV)
