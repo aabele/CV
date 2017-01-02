@@ -4,9 +4,12 @@
 
 **Remote Python/Javascript developer (UTC+2)**
 
-* Github: [github.com/aabele/CV](https://github.com/aabele/CV)
+Download CV as pdf: [twitter.com/aivis_abele](https://twitter.com/aivis_abele)
+
+* Github: [github.com/aabele/CV](https://github.com/aabele)
 * Twitter: [twitter.com/aivis_abele](https://twitter.com/aivis_abele)
 * Email: [aabele@gmail.com](mailto:aabele@gmail.com)
+* [Download](https://raw.githubusercontent.com/aabele/CV/master/README.pdf) CV as pdf
 
 ## Skills
 Python – Javascript – Linux – Design patterns – OOP – ReST – TDD – Agile Methodologies - Web scraping (Selenium, Scrapy)
