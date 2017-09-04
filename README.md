@@ -65,4 +65,5 @@ As my free time activity I have been reflecting on how to monitor the temperatur
 ## My free time projects
 
 * [huntercameraworld.com](https://huntercameraworld.com) - Stream your trail camera shots in web in just a few clicks
+* [kasmanzvana.lv](https://kasmanzvana.lv) - Community written phone book
 
