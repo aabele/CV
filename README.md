@@ -7,7 +7,7 @@
 * Github: [github.com/aabele](https://github.com/aabele)
 * Twitter: [twitter.com/aivis_abele](https://twitter.com/aivis_abele)
 * Email: [aabele@gmail.com](mailto:aabele@gmail.com)
-* CV as [PDF](https://raw.githubusercontent.com/aabele/CV/master/README.pdf)
+* CV as [PDF](https://raw.githubusercontent.com/aabele/CV/master/cv.pdf)
 
 ## Skills
 Python – Javascript – Linux – Design patterns – OOP – ReST – TDD – Agile Methodologies - Web scraping (Selenium, Scrapy)
