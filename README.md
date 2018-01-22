@@ -58,12 +58,12 @@ __2001-2005__ - University of Latvia
 
 ## Other skills and hobbies
 
-Beekeeping, dogs, music.
+Beekeeping, dogs, music, welding, woodworking, wildlife.
 
 As my free time activity I have been reflecting on how to monitor the temperature, humidity and other environment characteristics in a bee hive (in the middle of northern forest, without any reliable source of energy) and transmit recorded data over mobile networks to a remote data storage.
 
 ## My free time projects
 
-* [huntercameraworld.com](https://huntercameraworld.com) - Stream your trail camera shots in web in just a few clicks
+* [trailcams.io](https://trailcams.io) - Stream your trail camera shots in web in just a few clicks
 * [kasmanzvana.lv](https://kasmanzvana.lv) - Community written phone book
 
