@@ -17,12 +17,12 @@ Latvian (mother tongue), english (written and spoken), russian (only spoken)
 
 ## EXPERIENCES
 
-### Python developer / Site reliability engineer @ sefinance.lv
+### Python developer / Site reliability engineer @ (sefinance.lv|credify.lv)
 __2018 - ...__
 
 Slowly turning legacy codebase into reliable and maintainable software. Automated tests, refactoring and documentation.
 
-__Technology stack:__ linux, git, django, postgres, javascript, ansible, rest, webhooks, Amazon web services.
+__Technology stack:__ linux, git, django, postgres, javascript, ansible, rest, webhooks, AWS, docker.
 
 ### Python/Javascript developer @ omni-digital.co.uk
 __2016 - 2018__
