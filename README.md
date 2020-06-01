@@ -13,42 +13,43 @@
 Python – Javascript – Linux – Design patterns – OOP – ReST – TDD – Agile Methodologies - Web scraping (Selenium, Scrapy)
 
 ## LANGUAGES
-Latvian (mother tongue), english (written and spoken), russian (only spoken)
+Latvian (native), english (written/oralspoken), russian (oral)
 
 ## EXPERIENCES
 
 ### Full stack developer @ [Children Clinical University Hospital](https://bkus.lv) 
 __2019 - ongoing__
 
-I've opened the hospital database to their patients - by creating online patient 
-[portal/cabinet](https://api.bkus.lv/cabinet). Patients or their parents can authenticate with login/password or 
-SAML2 provider - [latvija.lv](https://latvija.lv) + identity providers - various latvian internet banks or 
-[eSignature](https://www.eparaksts.lv/) service, download all their documents, submit new documents or fill necessary 
-forms. 
+Accessibility of the hospital database to the patients - development of the online patient 
+[portal/cabinet](https://api.bkus.lv/cabinet). Ensuring possibility for the patients/their parents to authenticate with 
+login/password or SAML2 provider - [latvija.lv](https://latvija.lv) + identity providers - various Latvian internet 
+banks or [eSignature](https://www.eparaksts.lv/) service, and to download all their current documents, submit new 
+documents or fill necessary forms. 
 
-I've also had tasks and experience to integrate existing software with various external api or services - [eVeseliba](https://www.eveseliba.gov.lv/), Microsoft Active Directory, etc.
+Experience with integrating the existing software with various external api or services - [eVeseliba](https://www.eveseliba.gov.lv/), Microsoft Active Directory, etc.
 
 __Technology stack:__ linux, git, python, django, postgres, javascript, rest, TDD, latex, bootstrap, sass.
 
 ### Full stack developer @ [prezi.com](https://prezi.com)/[infogram.com](https://infogram.com) 
 __2019 - 2020__
 
-Refactored old, buggy and under-documented backbone code into clean, well tested react components using typescript.
-Implemented new frontend functionality and backend http endpoints in django.
+Refactoring of old, buggy and under-documented backbone code into clean, well tested react components by using 
+typescript. Implementation of new frontend functionality and backend http endpoints in django.
 
 __Technology stack:__ linux, git, python, django, javascript, react, backbone, typescript, AWS, react testing library, npm.
 
 ### Full stack developer / Site reliability engineer @ [sefinance.lv](https://sefinance.lv)/[credify.lv](https://credify.lv)
 __2018 - 2019__
 
-Worked on turning legacy codebase into reliable and maintainable software. Automated tests, refactoring and documentation.
+Ensuring transformation of legacy codebase into reliable and maintainable software. Automated tests, refactoring and 
+documentation.
 
 __Technology stack:__ linux, git, django, postgres, javascript, ansible, rest, webhooks, AWS, docker.
 
 ### Python/Javascript developer @ [omni-digital.co.uk](https://omni-digital.co.uk)
 __2016 - 2018__
 
-My role was remote django development, building websites, debugging old code, provisioning a lot of digital ocean droplets (centos and ubuntu) and keeping them updated and secured by using ansible.
+Ensuring remote django development, building websites, debugging old code, provisioning digital ocean droplets (centos and ubuntu) and keeping them updated and secured by using ansible.
 
 __Technology stack:__ linux, git, django, postgres, javascript, ansible.
 
@@ -79,7 +80,7 @@ IT consultant and network administrator for sworn notaries and employees (~500 u
 ## Education
 
 ### Professional MBA program
-__2005-2006__  - Riga Technical University (Riga Business School) - unfinished...
+__2005-2006__  - The Riga Technical University (Riga Business School) one year in the Professional MBA program (not finished).
 
 ### Economic informatics - Bachelor degree
 __2001-2005__ - University of Latvia
