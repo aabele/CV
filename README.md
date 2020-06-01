@@ -17,26 +17,42 @@ Latvian (mother tongue), english (written and spoken), russian (only spoken)
 
 ## EXPERIENCES
 
-### Full stack developer @ prezi.com|infogram.com 
-__2019 - ...__
+### Full stack developer @ [Children Clinical University Hospital](https://bkus.lv) 
+__2019 - ongoing__
 
-New feature development in django applications. 
+I've opened the hospital database to their patients - by creating online patient 
+[portal/cabinet](https://api.bkus.lv/cabinet) where patients or their parents can authenticate with login/password or 
+SAML2 provider - [latvija.lv](https://latvija.lv) + identity providers - various latvian internet banks or 
+[eSignature](https://www.eparaksts.lv/) service, download all their documents or submit new documents or fill necessary 
+forms. 
 
-### Python developer / Site reliability engineer @ (sefinance.lv|credify.lv)
+I've also had tasks and experience to integrate existing software with various external api or services - [eVeseliba](https://www.eveseliba.gov.lv/), Microsoft Active Directory, etc.
+
+__Technology stack:__ linux, git, python, django, postgres, javascript, rest, TDD, latex, bootstrap, sass.
+
+### Full stack developer @ [prezi.com](https://prezi.com)/[infogram.com](https://infogram.com) 
+__2019 - 2020__
+
+Refactored old, buggy and under-documented backbone code into clean, well tested react components using typescript.
+Implemented new frontend functionality and backend http endpoints in django.
+
+__Technology stack:__ linux, git, python, django, javascript, react, backbone, typescript, AWS, react testing library, npm.
+
+### Full stack developer / Site reliability engineer @ [sefinance.lv](https://sefinance.lv)/[credify.lv](https://credify.lv)
 __2018 - 2019__
 
 Worked on turning legacy codebase into reliable and maintainable software. Automated tests, refactoring and documentation.
 
 __Technology stack:__ linux, git, django, postgres, javascript, ansible, rest, webhooks, AWS, docker.
 
-### Python/Javascript developer @ omni-digital.co.uk
+### Python/Javascript developer @ [omni-digital.co.uk](https://omni-digital.co.uk)
 __2016 - 2018__based 
 
-My role was remote django developer, building websites, debugging old code, provisioning a lot of digital ocean droplets (centos and ubuntu) and keeping them updated and secured by using ansible.
+My role was remote django development, building websites, debugging old code, provisioning a lot of digital ocean droplets (centos and ubuntu) and keeping them updated and secured by using ansible.
 
 __Technology stack:__ linux, git, django, postgres, javascript, ansible.
 
-### Python/Javascript developer @ swiftserve.com
+### Python/Javascript developer @ [swiftserve.com](https://www.conversant.tv/swiftserve-cdn/)
 __2012 – 2015__
 
 Initially I was hired to develop youtube like website. After accomplishing this task I have been working as a member of an agile developer team. My everyday tasks included working on tickets - fixing bugs and implementing new features, refactoring the old code, participating in scrum meetings, planning poker sessions.
@@ -73,9 +89,3 @@ __2001-2005__ - University of Latvia
 Beekeeping, dogs, music, welding, woodworking, wildlife.
 
 As my free time activity I have been reflecting on how to monitor the temperature, humidity and other environment characteristics in a bee hive (in the middle of northern forest, without any reliable source of energy) and transmit recorded data over mobile networks to a remote data storage.
-
-## My free time projects
-
-* [trailcams.io](https://trailcams.io) - Stream your trail camera shots in web in just a few clicks
-* [kasmanzvana.lv](https://kasmanzvana.lv) - Community written phone book
-
