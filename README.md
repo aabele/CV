@@ -21,9 +21,9 @@ Latvian (mother tongue), english (written and spoken), russian (only spoken)
 __2019 - ongoing__
 
 I've opened the hospital database to their patients - by creating online patient 
-[portal/cabinet](https://api.bkus.lv/cabinet) where patients or their parents can authenticate with login/password or 
+[portal/cabinet](https://api.bkus.lv/cabinet). Patients or their parents can authenticate with login/password or 
 SAML2 provider - [latvija.lv](https://latvija.lv) + identity providers - various latvian internet banks or 
-[eSignature](https://www.eparaksts.lv/) service, download all their documents or submit new documents or fill necessary 
+[eSignature](https://www.eparaksts.lv/) service, download all their documents, submit new documents or fill necessary 
 forms. 
 
 I've also had tasks and experience to integrate existing software with various external api or services - [eVeseliba](https://www.eveseliba.gov.lv/), Microsoft Active Directory, etc.
@@ -46,7 +46,7 @@ Worked on turning legacy codebase into reliable and maintainable software. Autom
 __Technology stack:__ linux, git, django, postgres, javascript, ansible, rest, webhooks, AWS, docker.
 
 ### Python/Javascript developer @ [omni-digital.co.uk](https://omni-digital.co.uk)
-__2016 - 2018__based 
+__2016 - 2018__
 
 My role was remote django development, building websites, debugging old code, provisioning a lot of digital ocean droplets (centos and ubuntu) and keeping them updated and secured by using ansible.
 
