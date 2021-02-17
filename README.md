@@ -5,7 +5,6 @@
 **Remote Python/Javascript developer (UTC+2)**
 
 * Github: [github.com/aabele](https://github.com/aabele)
-* Twitter: [twitter.com/aivis_abele](https://twitter.com/aivis_abele)
 * Email: [aabele@gmail.com](mailto:aabele@gmail.com)
 * CV as [PDF](https://raw.githubusercontent.com/aabele/CV/master/cv.pdf)
 
@@ -21,7 +20,7 @@ Latvian (native), english (written/oralspoken), russian (oral)
 __2019 - ongoing__
 
 Accessibility of the hospital database to the patients - development of the online patient 
-[portal/cabinet](https://api.bkus.lv/cabinet). Ensuring possibility for the patients/their parents to authenticate with 
+[portal/cabinet](https://cabinet.bkus.lv). Ensuring possibility for the patients/their parents to authenticate with 
 login/password or SAML2 provider - [latvija.lv](https://latvija.lv) + identity providers - various Latvian internet 
 banks or [eSignature](https://www.eparaksts.lv/) service, and to download all their current documents, submit new 
 documents or fill necessary forms. 
@@ -29,6 +28,17 @@ documents or fill necessary forms.
 Experience with integrating the existing software with various external api or services - [eVeseliba](https://www.eveseliba.gov.lv/), Microsoft Active Directory, etc.
 
 __Technology stack:__ linux, git, python, django, postgres, javascript, rest, TDD, latex, bootstrap, sass.
+
+### Full stack developer @ [longenesis.com](https://longenesis.com) 
+__2020__
+
+I took a 6 month gig in company that focues in developing tools for patient data sharing, digital consent and direct 
+communication between biomedical institutions, patient organizations and research partners and sponsors. 
+
+I was delivering API services and frontend for them using python, javascript and sass, tweaking cloud infrastructure 
+on Amazon AWS and using docker for application containerization and development.
+
+__Technology stack:__ python, django, vue.js, AWS, docker, nodejs.
 
 ### Full stack developer @ [prezi.com](https://prezi.com)/[infogram.com](https://infogram.com) 
 __2019 - 2020__
@@ -38,7 +48,7 @@ typescript. Implementation of new frontend functionality and backend http endpoi
 
 __Technology stack:__ linux, git, python, django, javascript, react, backbone, typescript, AWS, react testing library, npm.
 
-### Full stack developer / Site reliability engineer @ [sefinance.lv](https://sefinance.lv)/[credify.lv](https://credify.lv)
+### Full stack developer / devops @ [sefinance.lv](https://sefinance.lv)/[credify.lv](https://credify.lv)
 __2018 - 2019__
 
 Ensuring transformation of legacy codebase into reliable and maintainable software. Automated tests, refactoring and 
