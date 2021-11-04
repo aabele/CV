@@ -16,8 +16,15 @@ Latvian (native), english (written/oralspoken), russian (oral)
 
 ## EXPERIENCES
 
+### Frontent developer @ [DECTA](https://decta.com) 
+__june 2021 - ongoing__
+
+Developing frontend applications (e.g. [Decta Gateway](https://gateway.decta.com)) in typescript using React and Redux.
+
+__Technology stack:__ linux, git, typescript, rest, TDD, sass, vue, react.
+
 ### Full stack developer @ [Children Clinical University Hospital](https://bkus.lv) 
-__2019 - ongoing__
+__september 2019 - june 2021__
 
 Accessibility of the hospital database to the patients - development of the online patient 
 [portal/cabinet](https://cabinet.bkus.lv). Ensuring possibility for the patients/their parents to authenticate with 
