@@ -16,7 +16,7 @@ Latvian (native), english (written/oralspoken), russian (oral)
 
 ## EXPERIENCES
 
-### Frontent developer @ [DECTA](https://decta.com) 
+### Frontend developer @ [decta.com](https://decta.com) 
 __june 2021 - ongoing__
 
 Developing frontend applications (e.g. [Decta Gateway](https://gateway.decta.com)) in typescript using React and Redux.
