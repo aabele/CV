@@ -1,6 +1,6 @@
 # Aivis Abele 
 
-![Aivis Abele](https://raw.githubusercontent.com/aabele/CV/master/aabele.jpg)
+![Aivis Abele](https://raw.githubusercontent.com/aabele/CV/master/aabele.png)
 
 **Remote Python/Javascript developer (UTC+2)**
 
