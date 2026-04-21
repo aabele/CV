@@ -1,0 +1,11 @@
+.git
+.gitignore
+node_modules
+cv.pdf
+*.md
+!package.json
+_config.yml
+style.css
+compress
+aabele.jpg
+aabele.png

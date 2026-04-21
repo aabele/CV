@@ -1,3 +1,11 @@
 #!/bin/bash
+set -e
 
-md2pdf README.md cv.pdf --css=style.css
+IMAGE=aabele-cv
+
+docker build -t "$IMAGE" .
+docker run --rm \
+  -v "$(pwd):/work" \
+  -e HOST_UID="$(id -u)" \
+  -e HOST_GID="$(id -g)" \
+  "$IMAGE"

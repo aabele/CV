@@ -1,0 +1,13 @@
+{
+  "name": "aabele-cv",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Aivis Ābele CV — Markdown to PDF via Bun + md-to-pdf",
+  "scripts": {
+    "build": "bun run build.js"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
