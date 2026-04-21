@@ -1,0 +1,52 @@
+name: Build CV PDF
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - README.md
+      - style.css
+      - build.js
+      - package.json
+      - bun.lockb
+      - Dockerfile
+      - docker-entrypoint.sh
+      - .github/workflows/build-pdf.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-pdf-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: ${{ !contains(github.event.head_commit.message, '[skip ci]') }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build PDF via Docker
+        run: |
+          docker build -t aabele-cv .
+          docker run --rm \
+            -v "$(pwd):/work" \
+            -e HOST_UID="$(id -u)" \
+            -e HOST_GID="$(id -g)" \
+            aabele-cv
+
+      - name: Commit PDF if changed
+        run: |
+          if git diff --quiet -- cv.pdf; then
+            echo "cv.pdf unchanged, nothing to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cv.pdf
+          git commit -m "Rebuild cv.pdf [skip ci]"
+          git push
