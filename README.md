@@ -1,109 +1,129 @@
-# Aivis Abele 
+# Aivis Ābele
 
-![Aivis Abele](https://raw.githubusercontent.com/aabele/CV/master/aabele.png)
+![Aivis Ābele](https://raw.githubusercontent.com/aabele/CV/master/aabele.png)
 
-**Remote Python/Javascript developer (UTC+2)**
+**Senior Full Stack Engineer — Python + TypeScript, fintech & healthtech (Remote, UTC+2)**
 
-* Github: [github.com/aabele](https://github.com/aabele)
+* GitHub: [github.com/aabele](https://github.com/aabele)
 * Email: [aabele@gmail.com](mailto:aabele@gmail.com)
 * CV as [PDF](https://raw.githubusercontent.com/aabele/CV/master/cv.pdf)
 
+## Summary
+
+Senior Full Stack Engineer with 10+ years shipping production systems across fintech and healthtech. I specialize in Python/Django backends and React/TypeScript frontends for regulated domains where security, reliability, and third-party integrations matter — payments, patient portals, and biomedical data-sharing platforms.
+
 ## Skills
-Python – Javascript – Linux – Design patterns – OOP – ReST – TDD – Agile Methodologies - Web scraping (Selenium, Scrapy)
 
-## LANGUAGES
-Latvian (native), english (written/oralspoken), russian (oral)
+**Languages:** Python, TypeScript, JavaScript
+**Backend:** Django, REST, PostgreSQL, webhooks
+**Frontend:** React, Redux, Vue.js, Sass
+**Infra / ops:** AWS, Docker, Linux, Ansible, Nginx, CI (Jenkins, GitLab)
+**Practices:** TDD, design patterns, OOP, agile, web scraping (Selenium, Scrapy)
 
-## EXPERIENCES
+## Languages
 
-### Frontend developer @ [decta.com](https://decta.com) 
-__june 2021 - ongoing__
+Latvian (native), English (fluent — 10+ years in UK-led teams), Russian (spoken)
 
-Developing frontend applications (e.g. [Decta Gateway](https://gateway.decta.com)) in typescript using React and Redux.
+## Experience
 
-__Technology stack:__ linux, git, typescript, rest, TDD, sass, vue, react.
+### Senior Full Stack Engineer @ [decta.com](https://decta.com)
+__June 2021 – present__
 
-### Full stack developer @ [Children Clinical University Hospital](https://bkus.lv) 
-__september 2019 - june 2021__
+Full-stack development on DECTA's payment processing platform.
 
-Accessibility of the hospital database to the patients - development of the online patient 
-[portal/cabinet](https://cabinet.bkus.lv). Ensuring possibility for the patients/their parents to authenticate with 
-login/password or SAML2 provider - [latvija.lv](https://latvija.lv) + identity providers - various Latvian internet 
-banks or [eSignature](https://www.eparaksts.lv/) service, and to download all their current documents, submit new 
-documents or fill necessary forms. 
+* Built and maintain the **JavaScript payform** — the hosted checkout supporting cards, Apple Pay, Google Pay, and open banking
+* Ship production features end-to-end: Django/Python backends, React + Redux + TypeScript frontends, Dockerized services
+* Work within a monorepo serving multiple whitelabel deployments, each with its own branding and compliance constraints
+* Also contributed to [Decta Gateway](https://gateway.decta.com) and back-office tooling
 
-Experience with integrating the existing software with various external api or services - [eVeseliba](https://www.eveseliba.gov.lv/), Microsoft Active Directory, etc.
+__Technology stack:__ TypeScript, React, Redux, Python, Django, PostgreSQL, Docker, REST, TDD, Sass
 
-__Technology stack:__ linux, git, python, django, postgres, javascript, rest, TDD, latex, bootstrap, sass.
+### Full Stack Developer @ [Children's Clinical University Hospital](https://bkus.lv)
+__September 2019 – June 2021__
 
-### Full stack developer @ [longenesis.com](https://longenesis.com) 
-__2020__
+Designed and built the [online patient self-service portal](https://cabinet.bkus.lv), giving patients and parents direct access to the hospital's clinical database.
 
-I took a 6 month gig in company that focues in developing tools for patient data sharing, digital consent and direct 
-communication between biomedical institutions, patient organizations and research partners and sponsors. 
+* Implemented multi-provider authentication — SAML2 via [latvija.lv](https://latvija.lv), Latvian internet bank logins, and the [eSignature](https://www.eparaksts.lv/) service
+* Integrated the portal with [eVeseliba](https://www.eveseliba.gov.lv/) (national e-health system) and Microsoft Active Directory
+* Enabled patients to download records, submit new documents, and fill clinical forms digitally
 
-I was delivering API services and frontend for them using python, javascript and sass, tweaking cloud infrastructure 
-on Amazon AWS and using docker for application containerization and development.
+__Technology stack:__ Python, Django, Vue.js, PostgreSQL, REST, TDD, Sass, LaTeX, Bootstrap
 
-__Technology stack:__ python, django, vue.js, AWS, docker, nodejs.
+### Full Stack Developer (Contract) @ [longenesis.com](https://longenesis.com)
+__2020 (6 months)__
 
-### Full stack developer @ [prezi.com](https://prezi.com)/[infogram.com](https://infogram.com) 
-__2019 - 2020__
+Six-month contract on a biomedical platform for patient data sharing, digital consent, and communication between research institutions, patient organizations, and sponsors.
 
-Refactoring of old, buggy and under-documented backbone code into clean, well tested react components by using 
-typescript. Implementation of new frontend functionality and backend http endpoints in django.
+* Delivered backend APIs and frontend features in Python, Django, and Vue.js
+* Tuned AWS cloud infrastructure and containerized services with Docker
 
-__Technology stack:__ linux, git, python, django, javascript, react, backbone, typescript, AWS, react testing library, npm.
+__Technology stack:__ Python, Django, Vue.js, AWS, Docker, Node.js
 
-### Full stack developer / devops @ [sefinance.lv](https://sefinance.lv)/[credify.lv](https://credify.lv)
-__2018 - 2019__
+### Full Stack Developer @ [prezi.com](https://prezi.com) / [infogram.com](https://infogram.com)
+__2019 – 2020__
 
-Ensuring transformation of legacy codebase into reliable and maintainable software. Automated tests, refactoring and 
-documentation.
+Migrated legacy Backbone.js code into typed, tested React components and shipped new full-stack features.
 
-__Technology stack:__ linux, git, django, postgres, javascript, ansible, rest, webhooks, AWS, docker.
+* Replaced under-documented, buggy frontend modules with TypeScript React components covered by React Testing Library
+* Built new frontend functionality and matching Django HTTP endpoints
 
-### Python/Javascript developer @ [omni-digital.co.uk](https://omni-digital.co.uk)
-__2016 - 2018__
+__Technology stack:__ Python, Django, React, TypeScript, Backbone, AWS, React Testing Library
 
-Ensuring remote django development, building websites, debugging old code, provisioning digital ocean droplets (centos and ubuntu) and keeping them updated and secured by using ansible.
+### Full Stack Developer / DevOps @ [sefinance.lv](https://sefinance.lv) / [credify.lv](https://credify.lv)
+__2018 – 2019__
 
-__Technology stack:__ linux, git, django, postgres, javascript, ansible.
+Transformed a financial-services platform's legacy codebase into reliable, maintainable software.
 
-### Python/Javascript developer @ [swiftserve.com](https://www.conversant.tv/swiftserve-cdn/)
+* Added automated tests and refactored core modules to reduce regression risk
+* Wrote documentation to replace tribal knowledge
+* Managed infrastructure with Ansible on AWS
+
+__Technology stack:__ Django, PostgreSQL, JavaScript, Ansible, REST, webhooks, AWS, Docker
+
+### Python / JavaScript Developer @ [omni-digital.co.uk](https://omni-digital.co.uk)
+__2016 – 2018__
+
+Remote Django development for a UK agency — building client websites, debugging legacy code, and provisioning/maintaining DigitalOcean droplets (CentOS, Ubuntu) with Ansible.
+
+__Technology stack:__ Django, PostgreSQL, JavaScript, Ansible, Linux
+
+### Python / JavaScript Developer @ [swiftserve.com](https://www.conversant.tv/swiftserve-cdn/)
 __2012 – 2015__
 
-Initially I was hired to develop youtube like website. After accomplishing this task I have been working as a member of an agile developer team. My everyday tasks included working on tickets - fixing bugs and implementing new features, refactoring the old code, participating in scrum meetings, planning poker sessions.
+Hired to build a YouTube-style video platform, then joined the agile team maintaining and extending it — bug fixes, new features, refactoring, scrum, planning poker.
 
-I was required to write a well-documented, tested and standards compliant code. The code testing was done by unittests, integration tests and the frontend part was tested using selenium and in several parts by jasmine.js tests.
+* Wrote well-documented, tested, standards-compliant code
+* Test coverage via unit tests, integration tests, Selenium, and Jasmine.js
 
-__Technology stack:__ linux, git, python, django, ReST, postgresql, nginx, backbone.js, shell scripting, continuous integration (jenkins integration server), grunt.js
+__Technology stack:__ Python, Django, REST, PostgreSQL, Nginx, Backbone.js, shell scripting, Jenkins CI, Grunt.js
 
-### Python/Javascript/Frontend developer 
-__2011-2012__
-I have worked as a freelance python/frontend developer. During this time I have developed a number of web sites, developed required functionality. The only
-website still online is buvlaukums.lv
+### Freelance Python / Frontend Developer
+__2011 – 2012__
 
-### Frontend developer @ ISS Media (Barcelona)
-__2011-2011__
-I have worked several months on pure frontend web development.
+Built a number of websites as a freelance developer. [buvlaukums.lv](https://buvlaukums.lv) is still online.
 
-__Technology stack:__ linux, git, django, postgres, jquery, webscraping (lxml)
+### Frontend Developer @ ISS Media (Barcelona)
+__2011__
 
-### IT Consultant @ Latvian Sworn notary council
-__2005-2011__
-IT consultant and network administrator for sworn notaries and employees (~500 users). I have developed a django based corporate intranet (mostly various reports and statistics), administrated postfix email server.
+Short stint on pure frontend web development.
+
+__Technology stack:__ Django, PostgreSQL, jQuery, web scraping (lxml)
+
+### IT Consultant @ Latvian Sworn Notary Council
+__2005 – 2011__
+
+IT consultant and network administrator for sworn notaries and their employees (~500 users). Built a Django-based corporate intranet (reports and statistics) and administered a Postfix email server.
 
 ## Education
 
-### Professional MBA program
-__2005-2006__  - The Riga Technical University (Riga Business School) one year in the Professional MBA program (not finished).
+### Professional MBA program (unfinished)
+__2005 – 2006__ · Riga Technical University (Riga Business School)
 
-### Economic informatics - Bachelor degree
-__2001-2005__ - University of Latvia
+### Bachelor's degree, Economic Informatics
+__2001 – 2005__ · University of Latvia
 
-## Other skills and hobbies
+## Other interests
 
 Beekeeping, dogs, music, welding, woodworking, wildlife.
 
-As my free time activity I have been reflecting on how to monitor the temperature, humidity and other environment characteristics in a bee hive (in the middle of northern forest, without any reliable source of energy) and transmit recorded data over mobile networks to a remote data storage.
+As a side project I've been exploring how to monitor temperature, humidity, and other environment characteristics inside a beehive — placed deep in a northern forest without reliable power — and transmit the recorded data over mobile networks to remote storage.
